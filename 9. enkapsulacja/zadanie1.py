@@ -1,0 +1,1 @@
+#zabezpieczamy pola z poprzedniego zadania 
